@@ -8,5 +8,5 @@ int main(void){
     scanf("%c", &grade);
     printf("이름 입력 : ");
     scanf("%s", name);
-    printf("%s의 학점은 %c입니다.\n",name,grade);
+    printf("%s의 학점은 %c입니다.\n",name,grade);34
 }
