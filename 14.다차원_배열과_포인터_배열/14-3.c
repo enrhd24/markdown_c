@@ -1,4 +1,4 @@
-#Include <stdio.h>
+#include <stdio.h>
 
 int main(void){
     char animal[5][20];
