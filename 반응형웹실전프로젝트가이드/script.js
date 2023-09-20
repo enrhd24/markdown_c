@@ -1,1 +1,3 @@
-document.getElementsByTagName('h1')[0].firstChild.nodeValue = "문서를 조작해보기";
+function myFunction() {
+    alert("Page is loaded");
+  }
